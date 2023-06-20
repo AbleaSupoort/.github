@@ -18,6 +18,11 @@ Esse projeto foi desenvolvido durante do bootcamp da [Generation Brasil](https:/
   
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"  width="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"  width="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"  width="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="60"/> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="60"/>
 
+## 📃 Repositórios
+
+ - [Frontend](https://github.com/AbleaSupoort/frontend)
+ - [Backend](https://github.com/AbleaSupoort/backend)
+
 ## 👤 Equipe
 <table>
 <tr>
