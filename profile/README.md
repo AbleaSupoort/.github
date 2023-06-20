@@ -1,4 +1,6 @@
-# ABLE 
+<h3 align="center">
+  <img src="https://i.imgur.com/aG6Bk8N.png" alt="Able logo" height="85"/>
+</h3>
 
 ## 💻 Projeto
 Able é uma rede social com o objetivo de levar informação sobre a educação inclusiva. 
